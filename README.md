@@ -7,7 +7,7 @@
 - 💬 Ask me about games or coffee
 - 📫 How to reach me: gabrielvfdelgado@gmail.com
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I am a Brazilian from Rio de Janeiro and in my free time, I like to play videogames (🎮), to watch soccer (⚽️ - VASCO ❤🖤) and I like to make stream
+- ⚡ Fun fact: I am a Brazilian from Rio de Janeiro and in my free time, I like to play videogames (🎮), to watch soccer (⚽️ - VASCO 🤍🖤) and I like to make stream
 on [my channel](https://www.twitch.tv/bellocoelho) at Twitch.
 
 <h3>🔦 Learning</h3>
@@ -20,7 +20,7 @@ on [my channel](https://www.twitch.tv/bellocoelho) at Twitch.
   <img align="center" alt="Gabriel-nestjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Gabriel-mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   
-  <img src="https://gifs.alphacoders.com/gifs/by_tag/64540" align="right" width="150" height="150" border="0" /> 
+  <img src="[https://gifs.alphacoders.com/gifs/by_tag/64540](https://giffiles.alphacoders.com/211/211941.gif)" align="right" width="150" height="150" border="0" /> 
 </div>
   
   ##
@@ -29,7 +29,6 @@ on [my channel](https://www.twitch.tv/bellocoelho) at Twitch.
  	<a href = "gabrielvfdelgado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielvfd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
- ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+ ![Snake animation](https://github.com/suzanaslc/suzanaslc/blob/output/github-contribution-grid-snake.svg)
  
 </div>
