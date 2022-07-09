@@ -10,7 +10,7 @@
 - 🔥 Fun fact: I am a Brazilian from Rio de Janeiro and in my free time, I like to play videogames (🎮), to watch soccer (⚽️ - VASCO 🤍🖤) and I like to make stream
 on [my channel](https://www.twitch.tv/bellocoelho) at Twitch.
 
-<h3>🔦 Learning</h3>
+<h3>💡 Languages and Tools:</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
