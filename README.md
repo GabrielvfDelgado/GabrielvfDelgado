@@ -7,7 +7,7 @@
 - 💬 Ask me about games or coffee
 - 📫 How to reach me: gabrielvfdelgado@gmail.com
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I am a Brazilian from Rio de Janeiro and in my free time, I like to play videogames (🎮), to watch soccer (⚽️ - VASCO 🤍🖤) and I like to make stream
+- 🔥 Fun fact: I am a Brazilian from Rio de Janeiro and in my free time, I like to play videogames (🎮), to watch soccer (⚽️ - VASCO 🤍🖤) and I like to make stream
 on [my channel](https://www.twitch.tv/bellocoelho) at Twitch.
 
 <h3>🔦 Learning</h3>
