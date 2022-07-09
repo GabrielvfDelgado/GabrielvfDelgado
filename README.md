@@ -20,7 +20,7 @@ on [my channel](https://www.twitch.tv/bellocoelho) at Twitch.
   <img align="center" alt="Gabriel-nestjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Gabriel-mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   
-  <img src="https://i.pinimg.com/originals/8b/a4/25/8ba42525f127d7b66167315fe2e0908b.gif" align="right" width="15" height="150" border="0" /> 
+  <img src="https://i.pinimg.com/originals/8b/a4/25/8ba42525f127d7b66167315fe2e0908b.gif" align="right" width="150" height="150" border="0" /> 
 </div>
   
   ##
