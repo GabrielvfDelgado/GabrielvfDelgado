@@ -1,9 +1,8 @@
 <h3>Hi! I'm Gabriel Delgado!</h3>
 
 - 💻 I’m currently working at [Sensedia](https://sensedia.com/) developing APIs.
-- 📜 I am a Analysis and System Development student at Technology College School from Rio de Janeiro State - [FAETERJ-Rio](https://www.faeterj-rio.edu.br/).
+- 📜 I have a degree in Systems Analysis and Development from the Faculty of Technology of the State of Rio de Janeiro. - [FAETERJ-Rio](https://www.faeterj-rio.edu.br/).
 - 🎯 I love to develop APIs and backend applications with Java, Python or Node.js.
-- 🌱 I’m currently learning DDD, Hexagonal Architecture and Microservices development using Node.js (with NestJS) and Python (Flask and FastAPI).
 - 💬 Ask me about games or coffee
 - 📫 How to reach me: gabrielvfdelgado@gmail.com
 - 😄 Pronouns: he/him.
